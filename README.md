@@ -1,1 +1,1 @@
-# GGGG
+print "Hello world"
